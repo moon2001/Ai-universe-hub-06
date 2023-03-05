@@ -27,7 +27,7 @@ const openAi = (datalimit) =>{
     showAll.classList.add('d-none')
   }
 
-   //Card section
+   
 
   //  foreach loop
   
